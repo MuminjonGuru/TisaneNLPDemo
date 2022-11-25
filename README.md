@@ -1,0 +1,2 @@
+# TisaneNLPDemo
+detectLanguage endpoint only
